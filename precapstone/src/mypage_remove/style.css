@@ -1,0 +1,222 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.header {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1920px;
+  height: 70px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.blue-print {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 20px;
+  top: calc(50% - 18px);
+}
+.user-profile-01 {
+  width: 52px;
+  height: 49px;
+  position: absolute;
+  left: 1528px;
+  top: 14px;
+  overflow: visible;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 1580px;
+  top: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 1687px;
+  top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 1794px;
+  top: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 492px;
+  top: 135px;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 603px;
+  top: 422px;
+}
+.div7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 603px;
+  top: 516px;
+}
+.div8 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 154px;
+  top: 135px;
+}
+.div9 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 830px;
+  top: 135px;
+}
+.div10 {
+  color: #3940ff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 1323px;
+  top: 135px;
+}
+.rectangle-18 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 321px;
+  height: 40px;
+  position: absolute;
+  left: 897px;
+  top: 421px;
+}
+.rectangle-19 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 321px;
+  height: 40px;
+  position: absolute;
+  left: 897px;
+  top: 519px;
+}
+.rectangle-9 {
+  background: #3940ff;
+  border-radius: 20px;
+  width: 211px;
+  height: 41px;
+  position: absolute;
+  left: 761px;
+  top: 618px;
+}
+.div11 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 819px;
+  top: 624px;
+}
+.div12 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 943px;
+  top: 431px;
+}
+.div13 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 943px;
+  top: 530px;
+}
+.div14 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1422px;
+  top: 460px;
+}
+.div15 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 1095px;
+  top: 135px;
+}
