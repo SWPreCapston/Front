@@ -1,0 +1,336 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 64px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 797px;
+  top: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.header {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1920px;
+  height: 70px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.blue-print {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 20px;
+  top: calc(50% - 18px);
+}
+.user-profile-01 {
+  width: 52px;
+  height: 49px;
+  position: absolute;
+  left: 1541px;
+  top: 10px;
+  overflow: visible;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 1593px;
+  top: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 1700px;
+  top: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 1807px;
+  top: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 32px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 581px;
+  top: 263px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 32px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 581px;
+  top: 359px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div8 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 32px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 581px;
+  top: 455px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div9 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 32px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 581px;
+  top: 551px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div10 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 32px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 581px;
+  top: 647px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div11 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 32px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 581px;
+  top: 743px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div12 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 32px;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+  font-weight: 100;
+  position: absolute;
+  left: 581px;
+  top: 839px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-8 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 411px;
+  height: 61px;
+  position: absolute;
+  left: 861px;
+  top: 245px;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 411px;
+  height: 61px;
+  position: absolute;
+  left: 861px;
+  top: 341px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 411px;
+  height: 61px;
+  position: absolute;
+  left: 861px;
+  top: 450px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 411px;
+  height: 61px;
+  position: absolute;
+  left: 861px;
+  top: 545px;
+}
+.rectangle-12 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 411px;
+  height: 61px;
+  position: absolute;
+  left: 861px;
+  top: 640px;
+}
+.rectangle-13 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 411px;
+  height: 61px;
+  position: absolute;
+  left: 861px;
+  top: 735px;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 411px;
+  height: 61px;
+  position: absolute;
+  left: 861px;
+  top: 830px;
+}
+.div13 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 856.15px;
+  height: 74.53px;
+  position: absolute;
+  left: 486px;
+  top: 933px;
+}
+.div14 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 869px;
+  top: 953.53px;
+  width: 253.99px;
+  height: 54.03px;
+}
+.rectangle-32 {
+  background: #d9d9d9;
+  width: 52px;
+  height: 49px;
+  position: absolute;
+  left: 1316px;
+  top: 557px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-15 {
+  background: #d9d9d9;
+  width: 52px;
+  height: 49px;
+  position: absolute;
+  left: 1316px;
+  top: 462px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.div15 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 1383px;
+  top: 486px;
+}
+.div16 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 1383px;
+  top: 581px;
+}
